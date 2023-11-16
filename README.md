@@ -1,2 +1,2 @@
 # OPT1 README.md
-First stab @ options trading code
+Derivative Instruments 101
